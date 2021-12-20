@@ -1,8 +1,8 @@
 # dorukmacdo
 
 - 🔭 Yapmaya Çalıştıklarım: Nerdeyse Bütün Bilgisayar Dilerini Öğrenmek ve MIT'de Okumak
-- 🥇 En Sevdiğim Diler : C#/Java/Phython
-- 🌱 Şuan Öğrenmeye Çalıştıklarım: CC+ / JavaScript / Hasskell
+- 🥇 En Sevdiğim Diler : C#/Java/Phython/HTML/PHP
+- 🌱 Şuan Öğrenmeye Çalıştıklarım: CC+ / JavaScript / Hasskell / SQL
 - 💬 Düşüncem: Takım Olarak Bir Iş Yapıyorsanız Herkese Eşit Bir Eşit Verin
 - 🎭 Hoşlandığım Şeyler: Oyun Oynamak, Kod Yazmak, Server Kurmak, Hackintosh Yapma, KOnuşmak, Matematik
 - ![](https://komarev.com/ghpvc/?username=dorukmacdo)
