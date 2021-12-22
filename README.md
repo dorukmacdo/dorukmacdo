@@ -1,9 +1,9 @@
 # dorukmacdo
 
-- 🔭 Hedeflerim: Nerdeyse Bütün Bilgisayar Dilerini Öğrenmek ve MIT'de Okumak
-- 🥇 En Sevdiğim Diler : C#/Java/Phython/HTML/PHP
+- 🔭 Hedeflerim: Neredeyse Bütün Bilgisayar Dillerini Öğrenmek ve MIT'de Okumak
+- 🥇 En Sevdiğim Diller : C#/Java/Phython/HTML/PHP
 - 🌱 Üstünde çalıştıklarım: C++ / JavaScript / Hasskell / SQL
-- 💬 Mottom: Takım Olarak Bir Iş Yapıyorsanız Herkese Eşit Bir İş Verin
+- 💬 Mottom: Takım Olarak Bir İş Yapıyorsanız Herkese Eşit Bir İş Verin
 - 🎭 Hoşlandığım Şeyler: Oyun Oynamak, Kod Yazmak, Server Kurmak, Hackintosh kurmak, Konuşmak, Matematik
 - ![](https://komarev.com/ghpvc/?username=dorukmacdo)
 <br/>
