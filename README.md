@@ -31,7 +31,6 @@
   
 
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android&nbsp;Studio-669933.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ&nbsp;IDEA-fe315d.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=PyCharm&logoColor=white&color=green&labelColor=green)
