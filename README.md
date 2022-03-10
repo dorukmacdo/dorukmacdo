@@ -1,7 +1,7 @@
 # dorukmacdo
 
-- 🔭 Hedeflerim: Neredeyse Bütün Bilgisayar Dillerini Öğrenmek ve MIT'de Okumak
-- 🥇 En Sevdiğim Diller : C#/Java/Phython/HTML/PHP
+- 🔭 My Goals: Learning Almost Any Computer Language and Studying at MIT
+- 🥇 My Favorite Programming Languages : C#/Phython
 - 🌱 Üstünde çalıştıklarım: C++ / JavaScript / Hasskell / SQL
 - 💬 Mottom: Takım Olarak Bir İş Yapıyorsanız Herkese Eşit Bir İş Verin
 - 🎭 Hoşlandığım Şeyler: Oyun Oynamak, Kod Yazmak, Server Kurmak, Hackintosh kurmak, Konuşmak, Matematik
@@ -14,19 +14,6 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-</p>
-<br/>
-
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="SaaS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
-   <a href="#"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 </p>
 <br/>
 
