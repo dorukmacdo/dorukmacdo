@@ -2,9 +2,8 @@
 
 - 🔭 My Goals: Learning Almost Any Computer Language and Studying at MIT
 - 🥇 My Favorite Programming Languages : C#/Phython
-- 🌱 Üstünde çalıştıklarım: C++ / JavaScript / Hasskell / SQL
-- 💬 Mottom: Takım Olarak Bir İş Yapıyorsanız Herkese Eşit Bir İş Verin
-- 🎭 Hoşlandığım Şeyler: Oyun Oynamak, Kod Yazmak, Server Kurmak, Hackintosh kurmak, Konuşmak, Matematik
+- 🌱 I've been working on: C++ / JavaScript / Hasskell / SQL
+- 🎭 Things I Like: Playing Games, Writing Code, Building Servers, Talking, Mathematics
 - ![](https://komarev.com/ghpvc/?username=dorukmacdo)
 <br/>
 
