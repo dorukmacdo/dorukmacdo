@@ -3,7 +3,7 @@
 - 🔭 My Goals: Learning Almost Any Computer Language and Studying at MIT
 - 🥇 My Favorite Programming Languages : C#/Phython
 - 🌱 I've been working on: C++ / JavaScript / Hasskell / SQL
-- 🎭 Things I Like: Playing Games, Writing Code, Building Servers, Talking, Mathematics
+- 🎭 Things I Like: Playing Games, Writing Code, Building Servers, Talking, Mathematics, Made VR
 - ![](https://komarev.com/ghpvc/?username=dorukmacdo)
 <br/>
 
